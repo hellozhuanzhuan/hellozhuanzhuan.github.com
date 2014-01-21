@@ -7,4 +7,4 @@ tags: []
 ---
 {% include JB/setup %}
 this is my github world,welcom!
-Ë³±ãÊÔÊÔÖĞÎÄ
+é¡ºä¾¿è¯•è¯•ä¸­æ–‡
