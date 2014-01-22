@@ -4,12 +4,7 @@ title: 转转
 ---
 <script src="bootstrap.js"></script>
 
-<div class="mini-layout fluid">
-        <div class="mini-layout-sidebar">
-        	开垦中^_^
-        	</div>
-        <div class="mini-layout-body">
-        	<div id="home" class="">
+<div>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
