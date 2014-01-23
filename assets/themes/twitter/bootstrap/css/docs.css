@@ -383,7 +383,6 @@ hr.soften {
 }
 
 .mini-layout .mini-layout-body {
-    background-color: #dceaf4;
     margin: 0 auto;
     width: 70%;
     height: 640px;
@@ -397,12 +396,12 @@ hr.soften {
 
 .mini-layout.fluid .mini-layout-sidebar {
     background-color: #bbd8e9;
-    width: 20%;
+    width: 40%;
     height: 640px;
 }
 
 .mini-layout.fluid .mini-layout-body {
-    width: 77.5%;
+    width: 55%;
     margin-left: 2.5%;
 }
 
