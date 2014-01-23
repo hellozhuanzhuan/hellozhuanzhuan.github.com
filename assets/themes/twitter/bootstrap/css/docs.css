@@ -395,13 +395,12 @@ hr.soften {
 }
 
 .mini-layout.fluid .mini-layout-sidebar {
-    background-color: #bbd8e9;
-    width: 30%;
+    width: 55%;
     height: 640px;
 }
 
 .mini-layout.fluid .mini-layout-body {
-    width: 55%;
+    width: 30%;
     margin-left: 2.5%;
 }
 
