@@ -12,8 +12,7 @@ tags: []
 
 <script src="http://192.168.1.197/my/js/jquery.iframe-transport.js" type="text/javascript"></script> 
 
-<script src="http://192.168.1.197/my/js/jquery.fileupload.js" type="text/javascript"></script>
-`
+<script src="http://192.168.1.197/my/js/jquery.fileupload.js" type="text/javascript"></script>`
 
 但是使用的时候就遇到问题了，chrome一直报错说Uncaught TypeError: Object [object Object] has no method 'fileupload'
 
