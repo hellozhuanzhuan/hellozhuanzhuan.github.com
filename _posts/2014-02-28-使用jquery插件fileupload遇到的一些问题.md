@@ -8,6 +8,7 @@ tags: []
 今天想实验一下用fileupload来以ajax的方式上传文件，但是就遇到了一些奇怪的问题，这里先总结一下。
 
 要使用fileupload插件，需要引入如下几个文件
+
 `<script src="http://192.168.1.197/my/js/vendor/jquery.ui.widget.js" type="text/javascript"></script>`
 
 `<script src="http://192.168.1.197/my/js/jquery.iframe-transport.js" type="text/javascript"></script> `
